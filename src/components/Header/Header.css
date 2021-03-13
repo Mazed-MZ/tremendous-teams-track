@@ -1,0 +1,13 @@
+.header{
+    background-image: url("../../Images/istockphoto-1132037666-612x612.jpg");
+    background-repeat: no-repeat;
+    height: 300px;
+    padding: 5%;
+    background-size: 100%;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.header h1{
+    color: yellowgreen;
+    font-size: 80px;
+}

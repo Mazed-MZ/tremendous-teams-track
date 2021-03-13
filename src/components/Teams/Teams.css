@@ -1,0 +1,16 @@
+.team{
+    background-image: url("../../Images/istockphoto-1132037666-612x612.jpg");
+    height: 600px;
+    color: white;
+    background-size: 100%;
+    text-align: center;
+    padding-bottom: 0px;
+    border-top: 5px solid darkgreen;
+}
+#clubs{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 5%;
+}
